@@ -1,5 +1,6 @@
 
-![SOCLAB](https://github.com/user-attachments/assets/34f43b2e-e01f-414a-9116-2c24f09eabfe)
+<img width="1584" height="672" alt="LAB" src="https://github.com/user-attachments/assets/f8db1fa0-ef6c-43d8-8836-713d02cff56d" />
+
 
 # SOC Automation Lab with Wazuh XDR, Shuffle SOAR, and TheHIVE
 
