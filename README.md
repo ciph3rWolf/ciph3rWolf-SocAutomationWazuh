@@ -1,0 +1,1 @@
+# ciph3rWolf-SocAutomationWazuh
