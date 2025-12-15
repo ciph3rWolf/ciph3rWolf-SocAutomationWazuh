@@ -1,8 +1,12 @@
 
-<img width="1080" height="690" alt="wazuh-standard-featured-picture" src="https://github.com/user-attachments/assets/7cf5118c-4d63-449a-b079-c2e6237b60d0" />
+![SOCLAB](https://github.com/user-attachments/assets/34f43b2e-e01f-414a-9116-2c24f09eabfe)
+
+# SOC Automation Lab with Wazuh XDR, Shuffle SOAR, and TheHIVE
+
+- This lab consists on the implementation of a lab comprised of various tools utilized in a SOC environment. Wazuh will serve as the XDR/Siem solution, Shuffle is the SOAR/automation platform,a dn TheHive for case/ticket management.
 
 
-# SOC Automation Lab with Wazuh XDR
+
 
 
 
